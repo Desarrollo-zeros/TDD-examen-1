@@ -1,0 +1,17 @@
+C:\Users\zeros\Documents\parcial\Parcial TDD\ServicioImpuesto.Domain.Test\bin\Debug\netcoreapp2.1\NUnit3.TestAdapter.dll
+C:\Users\zeros\Documents\parcial\Parcial TDD\ServicioImpuesto.Domain.Test\bin\Debug\netcoreapp2.1\NUnit3.TestAdapter.pdb
+C:\Users\zeros\Documents\parcial\Parcial TDD\ServicioImpuesto.Domain.Test\bin\Debug\netcoreapp2.1\nunit.engine.netstandard.dll
+C:\Users\zeros\Documents\parcial\Parcial TDD\ServicioImpuesto.Domain.Test\bin\Debug\netcoreapp2.1\ServicioImpuesto.Domain.Test.deps.json
+C:\Users\zeros\Documents\parcial\Parcial TDD\ServicioImpuesto.Domain.Test\bin\Debug\netcoreapp2.1\ServicioImpuesto.Domain.Test.runtimeconfig.json
+C:\Users\zeros\Documents\parcial\Parcial TDD\ServicioImpuesto.Domain.Test\bin\Debug\netcoreapp2.1\ServicioImpuesto.Domain.Test.runtimeconfig.dev.json
+C:\Users\zeros\Documents\parcial\Parcial TDD\ServicioImpuesto.Domain.Test\bin\Debug\netcoreapp2.1\ServicioImpuesto.Domain.Test.dll
+C:\Users\zeros\Documents\parcial\Parcial TDD\ServicioImpuesto.Domain.Test\bin\Debug\netcoreapp2.1\ServicioImpuesto.Domain.Test.pdb
+C:\Users\zeros\Documents\parcial\Parcial TDD\ServicioImpuesto.Domain.Test\bin\Debug\netcoreapp2.1\ServicioImpuesto.Domain.dll
+C:\Users\zeros\Documents\parcial\Parcial TDD\ServicioImpuesto.Domain.Test\bin\Debug\netcoreapp2.1\ServicioImpuesto.Domain.pdb
+C:\Users\zeros\Documents\parcial\Parcial TDD\ServicioImpuesto.Domain.Test\obj\Debug\netcoreapp2.1\ServicioImpuesto.Domain.Test.csprojAssemblyReference.cache
+C:\Users\zeros\Documents\parcial\Parcial TDD\ServicioImpuesto.Domain.Test\obj\Debug\netcoreapp2.1\ServicioImpuesto.Domain.Test.csproj.CoreCompileInputs.cache
+C:\Users\zeros\Documents\parcial\Parcial TDD\ServicioImpuesto.Domain.Test\obj\Debug\netcoreapp2.1\ServicioImpuesto.Domain.Test.AssemblyInfoInputs.cache
+C:\Users\zeros\Documents\parcial\Parcial TDD\ServicioImpuesto.Domain.Test\obj\Debug\netcoreapp2.1\ServicioImpuesto.Domain.Test.AssemblyInfo.cs
+C:\Users\zeros\Documents\parcial\Parcial TDD\ServicioImpuesto.Domain.Test\obj\Debug\netcoreapp2.1\ServicioImpuesto.Domain.Test.csproj.CopyComplete
+C:\Users\zeros\Documents\parcial\Parcial TDD\ServicioImpuesto.Domain.Test\obj\Debug\netcoreapp2.1\ServicioImpuesto.Domain.Test.dll
+C:\Users\zeros\Documents\parcial\Parcial TDD\ServicioImpuesto.Domain.Test\obj\Debug\netcoreapp2.1\ServicioImpuesto.Domain.Test.pdb

@@ -1,0 +1,11 @@
+C:\Users\zeros\Documents\parcial\Parcial TDD\ServicioImpuesto.Domain\bin\Debug\netcoreapp2.1\ServicioImpuesto.Domain.deps.json
+C:\Users\zeros\Documents\parcial\Parcial TDD\ServicioImpuesto.Domain\bin\Debug\netcoreapp2.1\ServicioImpuesto.Domain.runtimeconfig.json
+C:\Users\zeros\Documents\parcial\Parcial TDD\ServicioImpuesto.Domain\bin\Debug\netcoreapp2.1\ServicioImpuesto.Domain.runtimeconfig.dev.json
+C:\Users\zeros\Documents\parcial\Parcial TDD\ServicioImpuesto.Domain\bin\Debug\netcoreapp2.1\ServicioImpuesto.Domain.dll
+C:\Users\zeros\Documents\parcial\Parcial TDD\ServicioImpuesto.Domain\bin\Debug\netcoreapp2.1\ServicioImpuesto.Domain.pdb
+C:\Users\zeros\Documents\parcial\Parcial TDD\ServicioImpuesto.Domain\obj\Debug\netcoreapp2.1\ServicioImpuesto.Domain.csprojAssemblyReference.cache
+C:\Users\zeros\Documents\parcial\Parcial TDD\ServicioImpuesto.Domain\obj\Debug\netcoreapp2.1\ServicioImpuesto.Domain.csproj.CoreCompileInputs.cache
+C:\Users\zeros\Documents\parcial\Parcial TDD\ServicioImpuesto.Domain\obj\Debug\netcoreapp2.1\ServicioImpuesto.Domain.AssemblyInfoInputs.cache
+C:\Users\zeros\Documents\parcial\Parcial TDD\ServicioImpuesto.Domain\obj\Debug\netcoreapp2.1\ServicioImpuesto.Domain.AssemblyInfo.cs
+C:\Users\zeros\Documents\parcial\Parcial TDD\ServicioImpuesto.Domain\obj\Debug\netcoreapp2.1\ServicioImpuesto.Domain.dll
+C:\Users\zeros\Documents\parcial\Parcial TDD\ServicioImpuesto.Domain\obj\Debug\netcoreapp2.1\ServicioImpuesto.Domain.pdb
